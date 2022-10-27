@@ -57,18 +57,19 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Highly analytical and skilled Bioinformatics Analyst dealing with biology 
+      problems including translational control and tumor immunotherapy. Now, I'm 
+      a Ph.D candicate in Wuhan Univ, and a bioinformatics with 8 years of experience
+      in computational biology, intergration algorithms, and genomic datasets. Currently
+      looking for a suitable position to contribute my knowledge of molecular biology and
+      computer science in research for analyzing DNA and developing human diseases cures. 
+      
 education:
     title: Education
     info:
       - degree: Ph.D candidate in biology
         university: Wuhan University
-        time: 2020 - 
+        time: September 2020 - Present
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -79,7 +80,7 @@ education:
             - Bullet point
       - degree: MSc in Crop genetics and breeding 
         university: Huazhong Agricultural University
-        time: 2013 - 2016
+        time: September 2013 - June 2016
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -90,7 +91,7 @@ education:
             - Bullet point
       - degree: BSc in Agriculture
         university: Yangtze University
-        time: 2009 - 2013
+        time: September 2009 - June 2013
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -102,9 +103,9 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Bioinformatics
+        time: July 2016 - 2019 July
+        company: BGI research
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -114,23 +115,12 @@ experiences:
           enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
           error sit voluptatem accusantium doloremque laudantium, totam rem
           aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
+          architecto beatae viae dicta sunt explicabo.
             - Bullet point
             - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+      - role: Bioinformatics and AI
+        time: July 2019 - September 2020 
+        company: genoimmune, BGI
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -173,20 +163,20 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Multi-omics maps of cotton fibre reveal epigenetic basis for staged single-cell differentiation
+        link: "DOI: 10.1093/nar/gkw238"
+        authors: Maojun Wang, Pengcheng Wang, Lili Tu, Sitao Zhu, ..., Xianlong Zhang
+        conference: Nucleic Acids Res. 2016
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "GhJAZ2 negatively regulates cotton fiber initiation by interacting with the R2R3-myb transcription factor GhMYB25-like"
+        link: "DOI: 10.1111/tpj.13273"
+        authors: Haiyan Hu, Xin He, Lili Tu, Longfu Zhu, Sitao Zhu, Zonghe Ge, Xianlong Zhang
+        conference: Plant J. 2016
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Identification of 12 cancer types through genome deep learning
+        link: "https://doi.org/10.1038/s41598-019-53989-3"
+        authors: Sun, Y., Zhu, S., Ma, K. et al.
+        conference: "Sci Rep. 2019"
 
 skills:
     title: Skills &amp; Proficiency
