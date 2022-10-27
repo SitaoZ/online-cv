@@ -66,6 +66,17 @@ career-profile:
 education:
     title: Education
     info:
+      - degree: Ph.D candidate in biology
+        university: Wuhan University
+        time: 2020 - 
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
       - degree: MSc in Crop genetics and breeding 
         university: Huazhong Agricultural University
         time: 2013 - 2016
@@ -77,7 +88,7 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Science in Agriculture
+      - degree: BSc in Agriculture
         university: Yangtze University
         time: 2009 - 2013
         details: |
