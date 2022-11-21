@@ -146,9 +146,7 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      I list some publications in this section.
     papers:
       - title: Multi-omics maps of cotton fibre reveal epigenetic basis for staged single-cell differentiation
         link: "DOI: 10.1093/nar/gkw238"
@@ -159,6 +157,11 @@ publications:
         link: "DOI: 10.1111/tpj.13273"
         authors: Haiyan Hu, Xin He, Lili Tu, Longfu Zhu, Sitao Zhu, Zonghe Ge, Xianlong Zhang
         conference: Plant J. 2016
+      
+      - title: "The Chromosome-Based Rubber Tree Genome Provides New Insights into Spurge Genome Evolution and Rubber Biosynthesis"
+        link: "https://doi.org/10.1016/j.molp.2019.10.017"
+        authors: Liu, Jin et al.
+        conference: Molecular Plant. 2019
 
       - title: Identification of 12 cancer types through genome deep learning
         link: "https://doi.org/10.1038/s41598-019-53989-3"
