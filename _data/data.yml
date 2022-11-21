@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: zhusitao1990@163.com
     phone: 130 7277 4610
-    timezone: China/Wuhan Timezone
+    timezone: China/Wuhan
     citizenship: 
     website: https://sitaoz.github.io/ #do not add http://
     linkedin: zhusitao
@@ -67,22 +67,19 @@ education:
         university: Wuhan University
         time: September 2020 - Present
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          A doctoral candidate in Institute for Advance Studies, Wuhan Univerisity, China. 
+          Our Lab is aiming to use interdisciplinary strategy to study ‘Translational Control’,
+          ‘Plant Immunity’ and ‘Precision Agriculture’. My biotechnology experience ranges from 
+          molecular separations to bioinformatics. Now I focus on using bioinformatic tools and 
+          deep learning algorithm to investigate the translational control.
+            - Deep learning
+            - Translational control
       - degree: MSc in Crop genetics and breeding 
         university: Huazhong Agricultural University
         time: September 2013 - June 2016
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          Bioinformatic analysis in cotton fiber development,including fiber initiation,
+          fiber elongation, secondary cell wall 
             - Bullet point
             - Bullet point
       - degree: BSc in Agriculture
@@ -99,60 +96,52 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Bioinformatics
+      - role: Bioinformatic researcher
         time: July 2016 - 2019 July
         company: BGI research
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae viae dicta sunt explicabo.
           Being a bioinformatics analyst, I collaborated with my colleagues to research in rubber project.
-          I fininshed the re-sequencing part independently.
-            - Bullet point
-            - Bullet point
+          I fininshed the re-sequencing section independently. I also used WDL and python to construct automatic 
+          pipeline in WGS and WES for cancer treatment. I was also involved in the pre-development work of the 
+          spatial transcriptome. As a lecturer of BGI College, I am also responsible for the training of college 
+          interns from WHU, HUST and HZAU in Wuhan.
+            - Analysis of cooperative projects
+            - Automatic bioinfomatic pipelines
+            - Training of college interns
       - role: Bioinformatics and AI
         time: July 2019 - September 2020 
         company: Genoimmune, BGI
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          In the department of bioinformatic in Genoimmune, my work mainly includes
+          deep learning model building for neoantigen affinity prediction. Meanwhile,
+          I also update the EPIP (epitope presentation integrated prediction) software.
+            - Building deep learning model in neoantigen affinity prediction
+            - Update EPIP, a machine learning software for MHC affinity prediction
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      The following are some of the projects I have participated in, 
+      the details are as follows:
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Multi-omics
+        link: "DOI: 10.1093/nar/gkw238"
+        tagline: "Multi-omics maps of cotton fibre reveal epigenetic basis for staged single-cell differentiation."
 
-      - title: DevStudio
-        link: "#"
+      - title: Rubber Tree 
+        link: "https://doi.org/10.1016/j.molp.2019.10.017"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
+      - title: EPIP
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "EPIP: MHC-I epitope prediction integrating mass spectrometry derived motifs and tissue-specific expression profiles"
 
-      - title: Atom
+      - title: Multi-Pan
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "A comprehensive deep learning model for MHC epitope prediction."
 
-      - title: Delta
+      - title: Automatic pipeline construction
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Automatic pipeline construction in spatial transcriptome"
 
 publications:
     title: Publications
