@@ -16,7 +16,7 @@ sidebar:
     phone: 130 7277 4610
     timezone: China/Wuhan
     citizenship: 
-    website: https://sitaoz.github.io/ #do not add http://
+    website: "https://sitaoz.github.io/" #do not add http://
     linkedin: zhusitao
     xing:
     github: SitaoZ
