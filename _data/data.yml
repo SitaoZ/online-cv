@@ -138,7 +138,7 @@ projects:
       - title: Multi-Pan
         link: "#"
         tagline: "A comprehensive deep learning model for MHC epitope prediction."
-
+        
       - title: Automatic pipeline construction
         link: "#"
         tagline: "Automatic pipeline construction in spatial transcriptome"
@@ -146,7 +146,7 @@ projects:
 publications:
     title: Publications
     intro: |
-      I list some publications in this section.
+      I list some publications in this section. Described below.
     papers:
       - title: Multi-omics maps of cotton fibre reveal epigenetic basis for staged single-cell differentiation
         link: "DOI: 10.1093/nar/gkw238"
@@ -167,6 +167,11 @@ publications:
         link: "https://doi.org/10.1038/s41598-019-53989-3"
         authors: Sun, Y., Zhu, S., Ma, K. et al.
         conference: "Sci Rep. 2019"
+      
+      - title: EPIP: MHC-I epitope prediction integrating mass spectrometry derived motifs and tissue-specific expression profiles
+        link: doi: https://doi.org/10.1101/567081
+        authors: Weipeng Hu et al.
+        conference: biorxiv. 2020
 
 skills:
     title: Skills &amp; Proficiency
