@@ -148,7 +148,7 @@ publications:
     intro: |
       I list some publications in this section. Described below.
     papers:
-      - title: Multi-omics maps of cotton fibre reveal epigenetic basis for staged single-cell differentiation
+      - title: "Multi-omics maps of cotton fibre reveal epigenetic basis for staged single-cell differentiation"
         link: "DOI: 10.1093/nar/gkw238"
         authors: Maojun Wang, Pengcheng Wang, Lili Tu, Sitao Zhu, ..., Xianlong Zhang
         conference: Nucleic Acids Res. 2016
@@ -163,13 +163,13 @@ publications:
         authors: Liu, Jin et al.
         conference: Molecular Plant. 2019
 
-      - title: Identification of 12 cancer types through genome deep learning
+      - title: "Identification of 12 cancer types through genome deep learning"
         link: "https://doi.org/10.1038/s41598-019-53989-3"
         authors: Sun, Y., Zhu, S., Ma, K. et al.
         conference: "Sci Rep. 2019"
       
-      - title: EPIP: MHC-I epitope prediction integrating mass spectrometry derived motifs and tissue-specific expression profiles
-        link: doi: https://doi.org/10.1101/567081
+      - title: "EPIP: MHC-I epitope prediction integrating mass spectrometry derived motifs and tissue-specific expression profiles"
+        link: "doi: https://doi.org/10.1101/567081"
         authors: Weipeng Hu et al.
         conference: biorxiv. 2020
 
