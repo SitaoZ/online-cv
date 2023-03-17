@@ -118,10 +118,11 @@ experiences:
             - Building deep learning model in neoantigen affinity prediction
             - Update EPIP, a machine learning software for MHC affinity prediction
             
-      - role: Using bioinformatics and AI tech to investigate translation control
+      - role: Ph.D candidate
         time: September 2020 - now 
         company: WHU, IAS
         details: |
+          Using bioinformatics and AI tech to investigate translation control.
           In the department Our Biotechnology & Interdisciplinary Research Lab, my work mainly includes
           deep learning model building for 5' end pattern prediction. Meanwhile,
           I also collaborate to investigate the 5' leader translation efficiency and ONT tech in plants.
