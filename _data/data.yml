@@ -117,6 +117,17 @@ experiences:
           I also update the EPIP (epitope presentation integrated prediction) software.
             - Building deep learning model in neoantigen affinity prediction
             - Update EPIP, a machine learning software for MHC affinity prediction
+            
+      - role: Using bioinformatics and AI tech to investigate translation control
+        time: September 2020 - now 
+        company: WHU, IAS
+        details: |
+          In the department Our Biotechnology & Interdisciplinary Research Lab, my work mainly includes
+          deep learning model building for 5' end pattern prediction. Meanwhile,
+          I also collaborate to investigate the 5' leader translation efficiency and ONT tech in plants.
+            - Building deep learning model in 5' leader prediction
+            - website for 5' end pattern visualization
+            
 projects:
     title: Projects
     intro: >
@@ -129,7 +140,7 @@ projects:
 
       - title: Rubber Tree 
         link: "https://doi.org/10.1016/j.molp.2019.10.017"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "The Chromosome-Based Rubber Tree Genome Provides New Insights into Spurge Genome Evolution and Rubber Biosynthesis."
 
       - title: EPIP
         link: "#"
@@ -142,6 +153,10 @@ projects:
       - title: Automatic pipeline construction
         link: "#"
         tagline: "Automatic pipeline construction in spatial transcriptome"
+        
+      - title: Genomic feature extraction
+        link: "https://featurextract.readthedocs.io/en/latest/"
+        tagline: "Genomic feature extraction in bioinformatics"
 
 publications:
     title: Publications
@@ -161,7 +176,7 @@ publications:
       - title: "The Chromosome-Based Rubber Tree Genome Provides New Insights into Spurge Genome Evolution and Rubber Biosynthesis"
         link: "https://doi.org/10.1016/j.molp.2019.10.017"
         authors: Liu, Jin et al.
-        conference: Molecular Plant. 2019
+        conference: Mol Plant. 2019
 
       - title: "Identification of 12 cancer types through genome deep learning"
         link: "https://doi.org/10.1038/s41598-019-53989-3"
@@ -172,6 +187,11 @@ publications:
         link: "doi: https://doi.org/10.1101/567081"
         authors: Weipeng Hu et al.
         conference: biorxiv. 2020
+      
+      - title: "Plant HEM1 specifies a condensation domain to control immune gene translation"
+        link: "https://doi.org/10.1038/s41477-023-01355-7"
+        authors: Yulu Zhou, Ruixia Niu, Zhijuan Tang, Rui Mou, Zhao Wang, Sitao Zhu, Hongchun Yang, Pingtao Ding & Guoyong Xu.
+        conference: Nat. Plants. 2023
 
 skills:
     title: Skills &amp; Proficiency
@@ -192,7 +212,7 @@ skills:
       - name: Adobe Illustrator
         level: 80%
 
-      - name: R & R-Stdio
+      - name: R & RStudio
         level: 90%
 
 footer: >
