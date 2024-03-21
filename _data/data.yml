@@ -73,6 +73,7 @@ education:
           molecular separations to bioinformatics. Now I focus on using bioinformatic tools and 
           deep learning algorithm to investigate the translational control.
             - Deep learning
+            - Bioinformatics
             - Translational control
       - degree: MSc in Crop genetics and breeding 
         university: Huazhong Agricultural University
@@ -193,6 +194,11 @@ publications:
         link: "https://doi.org/10.1038/s41477-023-01355-7"
         authors: Yulu Zhou, Ruixia Niu, Zhijuan Tang, Rui Mou, Zhao Wang, Sitao Zhu, Hongchun Yang, Pingtao Ding & Guoyong Xu.
         conference: Nat. Plants. 2023
+        
+      - title: "RNAirport: a deep neural network-based database characterizing representative gene models in plants"
+        link: "#"
+        authors: Sitao Zhu, Shu Yuan, Ruixia Niu, Yulu Zhou, Zhao Wang, Guoyong Xu.
+        conference: J. Genet. Genomics. 2024
 
 skills:
     title: Skills &amp; Proficiency
