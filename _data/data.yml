@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Sitao Zhu
-    tagline: Ph.D Candidate
+    tagline: Ph.D
     avatar: sitao.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -55,10 +55,9 @@ career-profile:
     summary: |
       Highly analytical and skilled bioinformatics analyst dealing with biology 
       problems including translational control and tumor immunotherapy. Now, I'm 
-      a Ph.D candicate in Wuhan University, and a bioinformatics with 8 years of experience
-      in computational biology, intergration algorithms, and genomic datasets. Currently
-      looking for a suitable position to contribute my knowledge of molecular biology and
-      computer science in research for analyzing DNA and developing human diseases cures. 
+      a postdoctoral researcher in Wuhan University, and a bioinformatics with 9 years of experience
+      in computational biology, intergration algorithms, and genomic datasets. Currently I am 
+      exploring statin resistance mechanisms in song lab and developing human diseases cures. 
       
 education:
     title: Education
