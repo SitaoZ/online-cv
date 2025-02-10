@@ -63,9 +63,9 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: Ph.D candidate in biology
+      - degree: Ph.D in Biology
         university: Wuhan University
-        time: September 2020 - Present
+        time: September 2020 - July 2024
         details: |
           A doctoral candidate in Institute for Advance Studies, Wuhan Univerisity, China. 
           Our Lab is aiming to use interdisciplinary strategy to study ‘Translational Control’,
@@ -119,16 +119,13 @@ experiences:
             - Building deep learning model in neoantigen affinity prediction
             - Update EPIP, a machine learning software for MHC affinity prediction
             
-      - role: Ph.D candidate
-        time: September 2020 - now 
-        company: WHU, IAS
+      - role: POST-DOC
+        time: September 2024 - Now
+        company: WHU, college of life sciences
         details: |
-          Using bioinformatics and AI tech to investigate translation control.
-          In the department Our Biotechnology & Interdisciplinary Research Lab, my work mainly includes
-          deep learning model building for 5' end pattern prediction. Meanwhile,
-          I also collaborate to investigate the 5' leader translation efficiency and ONT tech in plants.
-            - Building deep learning model in 5' leader prediction
-            - website for 5' end pattern visualization
+          Using bioinformatics and AI tech to investigate lipid metabolism in song lab.
+            - Building multi-omics and deep learning model in lipid and cholesterol metabolism.
+            - Statins resistance mechanism
             
 projects:
     title: Projects
@@ -159,6 +156,10 @@ projects:
       - title: Genomic feature extraction
         link: "https://featurextract.readthedocs.io/en/latest/"
         tagline: "Genomic feature extraction in bioinformatics"
+
+      - title: Human lipid metabolism
+        link: "#"
+        tagline: "Human multi-omics analysis"
 
 publications:
     title: Publications
@@ -196,10 +197,14 @@ publications:
         conference: Nat. Plants. 2023
         
       - title: "RNAirport: a deep neural network-based database characterizing representative gene models in plants"
-        link: "#"
+        link: "https://doi.org/10.1016/j.jgg.2024.03.004"
         authors: Sitao Zhu, Shu Yuan, Ruixia Niu, Yulu Zhou, Zhao Wang, Guoyong Xu.
         conference: J. Genet. Genomics. 2024
-
+        
+      - title: "Genetically-encoded targeted protein degradation technology to remove endogenous condensation-prone proteins and improve crop performance"
+        link: "https://doi.org/10.1038/s41467-025-56570-x"
+        authors: Ming Luo, Sitao Zhu, Hua Dang, Qing Wen, Ruixia Niu, Jiawei Long, Zhao Wang, Yongjia Tong, Yuese Ning, Meng Yuan & Guoyong Xu.
+        conference: Nat Commun, 2025.
 skills:
     title: Skills &amp; Proficiency
 
