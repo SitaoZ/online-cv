@@ -27,7 +27,7 @@ sidebar:
     stack-overflow: 8762711/Tracy # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://github.com/SitaoZ/Python-Program/blob/master/sitaoz-online-cv.pdf
+    pdf: https://github.com/SitaoZ/Python-Program/blob/master/sitaoz-github-io-online-cv-.pdf
 
     languages:
       title: Languages
@@ -54,7 +54,7 @@ career-profile:
     title: Career Profile
     summary: |
       Highly analytical and skilled bioinformatics analyst dealing with biology 
-      problems including translational control and tumor immunotherapy. Now, I'm 
+      problems including translational control, lipid metabolism and tumor immunotherapy. Now, I'm 
       a postdoctoral researcher in Wuhan University, and a bioinformatics with 9 years of experience
       in computational biology, intergration algorithms, and genomic datasets. Currently I am 
       exploring statin resistance mechanisms in song lab and developing human diseases cures. 
